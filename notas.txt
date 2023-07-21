@@ -1,0 +1,2 @@
+//Queremos mantener un listado- p[ersistencia = hooks para actualizar la informacion del html
+//cambio de data y html - hook para mantener el estado
